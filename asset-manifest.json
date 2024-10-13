@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lixlavender24h/static/css/main.f37f8a65.css",
+    "main.js": "/lixlavender24h/static/js/main.3fc8447a.js",
+    "static/js/453.7bd0b928.chunk.js": "/lixlavender24h/static/js/453.7bd0b928.chunk.js",
+    "index.html": "/lixlavender24h/index.html",
+    "main.f37f8a65.css.map": "/lixlavender24h/static/css/main.f37f8a65.css.map",
+    "main.3fc8447a.js.map": "/lixlavender24h/static/js/main.3fc8447a.js.map",
+    "453.7bd0b928.chunk.js.map": "/lixlavender24h/static/js/453.7bd0b928.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f37f8a65.css",
+    "static/js/main.3fc8447a.js"
+  ]
+}
